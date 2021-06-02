@@ -1,0 +1,41 @@
+h1{
+    color: lawngreen;       
+}
+/* *{
+   border: solid; 
+} */
+.header{
+
+    display:flex;
+    justify-content: space-between;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    
+}
+.footer{
+    display: flex;
+    justify-content: flex-start;
+}
+p,h2{
+    text-align: center;
+}
+body{
+    margin:0px;
+    background-color: #ffffff
+}
+.origami{
+    
+    display:flex;
+    justify-content: space-between;
+}
+.bg{
+    background-color: aqua;
+}
